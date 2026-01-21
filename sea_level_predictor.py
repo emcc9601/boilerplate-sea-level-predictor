@@ -1,6 +1,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.stats import linregress
+import seaborn as sns
 
 def draw_plot():
     # Read data from file
